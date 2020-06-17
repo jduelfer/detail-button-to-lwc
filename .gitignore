@@ -1,0 +1,5 @@
+.vscode/
+.sfdx/
+**/lwc/jsconfig.json
+.eslintcache
+.DS_Store
